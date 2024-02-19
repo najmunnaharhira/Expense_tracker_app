@@ -40,7 +40,7 @@ I've referenced dribble for UI and layout for this App.
 ### How to start?
 * **Summary of set up**
 1. Install [Android Studio](https://developer.android.com/studio). 
-2. [Download) and extract the repository or run the command `https://github.com/Prashant-123/XpenseTracker.git` on your computer.
+2. [Download) and extract the repository or run the command
 3. In Android Studio, open the project as an existing android studio project after extracting the downloaded zip or import as a new project from git.
 
 * **Deployment Instructions**
